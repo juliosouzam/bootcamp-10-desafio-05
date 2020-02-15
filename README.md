@@ -1,14 +1,11 @@
-# Bootcamp 10 GoStack - Desafio 05
 
-## Introdução ao ReactJs
+## Primeira aplicação com ReactJs
 
 ## :pencil2: Conceitos
 
-- Conceitos (Componentes, Propriedades e Estado)
-- Imutabilidade
-- Babel e Webpack
-- Default Props and PropTypes
-- Ciclo de vida do componente.
+- Eslint, Prettier, EditorConfig
+- Roteamento com [React Router DOM](www.google.com)
+- Styled Components
 
 ## :memo: Desafio
 
